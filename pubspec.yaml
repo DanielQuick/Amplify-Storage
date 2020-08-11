@@ -36,7 +36,7 @@ flutter:
         package: com.danielquick.amplify_storage
         pluginClass: AmplifyStoragePlugin
       ios:
-        pluginClass: AmplifyStorage
+        pluginClass: AmplifyStoragePlugin
     # -------------------
 
   # To add assets to your plugin package, add an assets section, like this:
